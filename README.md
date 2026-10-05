@@ -2,6 +2,8 @@
 
 本仓库是机器学习练习的**题目集合**。每个题目一个文件夹，包含任务说明、数据与提交要求。
 
+> **关于仓库名**：仓库页面显示名为「机器学习练习」，但浏览器地址栏与 clone 地址使用的是英文名 `Machine-Learning-Practice`——GitHub 的仓库名只允许 ASCII 字母、数字和 `.-_`，不支持中文。两者是同一个仓库，clone 时请用英文名。
+
 ---
 
 ## 题目列表
@@ -26,8 +28,8 @@
 3. 把你**自己账号下**的这个仓库 clone 到本地：
 
    ```bash
-   git clone https://github.com/<你的用户名>/机器学习练习.git
-   cd 机器学习练习
+   git clone https://github.com/<你的用户名>/Machine-Learning-Practice.git
+   cd Machine-Learning-Practice
    ```
 
 4. 进入对应题目目录（例如 `题目一/`），按该目录下 README 的要求完成作业

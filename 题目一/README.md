@@ -170,8 +170,8 @@ pip install -r requirements.txt
 4. 把**你自己账号下**的仓库 clone 到本地：
 
    ```bash
-   git clone https://github.com/<你的用户名>/机器学习练习.git
-   cd 机器学习练习/题目一
+   git clone https://github.com/<你的用户名>/Machine-Learning-Practice.git
+   cd Machine-Learning-Practice/题目一
    ```
 
 5. 在本地完成 Lasso 分析与三张图的绘制，把图片输出到 `figures/`
